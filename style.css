@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+}
+
+body{
+    height: 10in;
+}
+
+.uno{
+    height: 1cm;
+    width: 100%;
+    background-color: red;
+} .uno > p{
+    height: 1cm;
+    width: 10%;
+    margin: auto;
+} .uno > p:hover{
+    height: 1cm;
+    width: 100%;
+    background-color: violet;
+    transition: 1s;
+}
+
+.dos{
+    height: 1cm;
+    width: 100%;
+    background-color: orange;
+} .dos > p{
+    height: 1cm;
+    width: 10%;
+    margin: auto;
+} .dos > p:hover{
+    height: 1cm;
+    width: 100%;
+    background-color: indigo;
+    transition: 1s;
+}
+
+.tres{
+    height: 1cm;
+    width: 100%;
+    background-color: yellow;
+} .tres > p{
+    height: 1cm;
+    width: 10%;
+    margin: auto;
+} .tres > p:hover{
+    height: 1cm;
+    width: 100%;
+    background-color: blue;
+    transition: 1s;
+}
+
+.kwatro{
+    height: 1cm;
+    width: 100%;
+    background-color: yellowgreen;
+} .kwatro > p{
+    height: 1cm;
+    width: 10%;
+    margin: auto;
+} .kwatro > p:hover{
+    height: 1cm;
+    width: 100%;
+    background-color: green;
+    transition: 1s;
+}
+
+.singko{
+    height: 1cm;
+    width: 100%;
+    background-color: blue;
+} .singko > p{
+    height: 1cm;
+    width: 10%;
+    margin: auto;
+} .singko > p:hover{
+    height: 1cm;
+    width: 100%;
+    background-color: yellow;
+    transition: 1s;
+}
+
+.sais{
+    height: 1cm;
+    width: 100%;
+    background-color: indigo;
+} .sais > p{
+    height: 1cm;
+    width: 10%;
+    margin: auto;
+} .sais > p:hover{
+    height: 1cm;
+    width: 100%;
+    background-color: orange;
+    transition: 1s;
+}
+
+.syete{
+    height: 1cm;
+    width: 100%;
+    background-color: violet;
+} .syete > p{
+    height: 1cm;
+    width: 10%;
+    margin: auto;
+} .syete > p:hover{
+    height: 1cm;
+    width: 100%;
+    background-color: red;
+    transition: 1s;
+}
